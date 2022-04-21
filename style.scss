@@ -1,0 +1,21 @@
+body {
+  background-color: #faeee7;
+  color: #ccc;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  a {
+    color: yellow;
+  }
+  .employees {
+    color: rgb(32, 27, 27);
+    .employee {
+      padding: 10px;
+      background-color: #f3c5c5;
+      margin: 0 10px 0 10px;
+      color: darkolivegreen;
+    }
+  }
+}
